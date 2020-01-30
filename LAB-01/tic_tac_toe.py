@@ -146,6 +146,7 @@ for i in range(9):
     count+=1
 '''
 OUTPUT:
+#Player 1 Win Condition
  ~  |  ~  |  ~
 ----+-----+-----
  ~  |  ~  |  ~
@@ -227,6 +228,7 @@ Player 1 won
 
 Game Over
 
+#Draw Condition
  ~  |  ~  |  ~
 ----+-----+-----
  ~  |  ~  |  ~
@@ -308,7 +310,7 @@ Draw
 
 Game Over
 
-
+#Player 2 Win Condition
  ~  |  ~  |  ~
 ----+-----+-----
  ~  |  ~  |  ~
@@ -365,3 +367,4 @@ Player 2 won
  O  |  O  |  O
 
 Game Over
+'''
